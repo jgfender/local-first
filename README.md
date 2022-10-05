@@ -1,1 +1,3 @@
-This is some text in my read me file.
+This is text in my README file.
+
+And here is some more text. 
